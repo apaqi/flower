@@ -7,6 +7,8 @@
 [![star this repo](http://githubbadges.com/star.svg?user=zhihuili&repo=flower&style=flat)](https://github.com/zhihuili/flower)
 [![fork this repo](http://githubbadges.com/fork.svg?user=zhihuili&repo=flower&style=flat)](https://github.com/zhihuili/flower/fork)
 
+https://static001.geekbang.org/con/57/pdf/4248371750/file/%E5%8F%8D%E5%BA%94%E5%BC%8F%E7%BC%96%E7%A8%8B%E6%A1%86%E6%9E%B6Flower%E7%9A%84%E8%AE%BE%E8%AE%A1%E4%B8%8E%E5%AE%9E%E8%B7%B5-%E6%9D%8E%E6%99%BA%E6%85%A7.pdf 
+
 Flower是一个构建在Akka上的反应式微服务框架，开发者只需要针对每一个细粒度的业务功能开发一个Service服务，并将这些Service按照业务流程进行可视化编排，即可得到一个反应式系统。
 
 * 即时响应：服务流程的调用者可以得到即时响应，无需等待整个Service流程执行完毕；Service之间无调用阻塞，即时响应。
